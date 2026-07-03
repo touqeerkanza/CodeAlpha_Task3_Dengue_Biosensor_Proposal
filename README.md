@@ -1,8 +1,8 @@
-# CodeAlpha Biotechnology Internship — Task 4: Mini-Project Proposal
+# CodeAlpha Biotechnology Internship — Task 3: Project Proposal
 
 ## 🩺 Low-Cost Paper-Based Electrochemical Biosensor for Rapid Dengue NS1 Antigen Detection
 
-A mini-project proposal prepared for **Task 4** of the CodeAlpha Biotechnology Virtual Internship.
+A mini-project proposal prepared for **Task 3** of the CodeAlpha Biotechnology Virtual Internship.
 
 ## 📄 About
 
